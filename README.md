@@ -51,3 +51,5 @@ CREATE TABLE IF NOT EXISTS `utilisateurs` (
   `mailUser` varchar(20) NOT NULL,
   `password` text NOT NULL
 )
+	
+
